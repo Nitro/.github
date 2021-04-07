@@ -3,6 +3,6 @@
     "description": "Gitleaks at Organization level workflow template.",
     "iconName": "leak",
     "categories": [
-        "Go"
+        "Security"
     ]
 }
