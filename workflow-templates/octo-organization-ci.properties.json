@@ -1,13 +1,8 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
+    "name": "Gitleaks Workflow",
+    "description": "Gitleaks at Organization level workflow template.",
+    "iconName": "leak.svg",
     "categories": [
         "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }

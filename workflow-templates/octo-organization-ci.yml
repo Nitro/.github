@@ -1,17 +1,11 @@
-name: Octo Organization CI
+name: Gitleaks
 
-on:
-  push:
-    branches: [ $default-branch ]
-  pull_request:
-    branches: [ $default-branch ]
+on: [push,pull_request]
 
 jobs:
-  build:
+  gitleaks:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Run a one-line script
-        run: echo Hello from Octo Organization
+    - uses: actions/checkout@v1
+    - name: gitleaks-action
+      uses: zricethezav/gitleaks-action@master
