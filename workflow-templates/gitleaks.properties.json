@@ -1,7 +1,7 @@
 {
     "name": "Gitleaks Workflow",
     "description": "Gitleaks at Organization level workflow template.",
-    "iconName": "leak.svg",
+    "iconName": "leak",
     "categories": [
         "Go"
     ]
