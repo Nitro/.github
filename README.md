@@ -1,2 +1,2 @@
-# github-workflows
-Organization-level Github Actions Workflows
+# Github Templates
+Organization-level Templates.
