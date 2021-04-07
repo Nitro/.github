@@ -8,4 +8,5 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: gitleaks-action
-      uses: zricethezav/gitleaks-action@master
+      uses: Nitro/gitleaks-action@master
+      # This uses our fork of the action
