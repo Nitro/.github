@@ -1,4 +1,4 @@
-name: GitLeaks Check
+name: Octo Organization CI
 
 on:
   push:
