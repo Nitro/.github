@@ -1,0 +1,8 @@
+{
+    "name": "GitLeaks Check",
+    "description": "GitLeaks (credentials) Check for the Nitro Organization.",
+    "iconName": "leak",
+    "categories": [
+        "Go"
+    ]
+}
